@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fullstackeando": {
+      "hosting": {
+        "app": [
+          "fullstackeando"
+        ]
+      }
+    }
+  }
+}
